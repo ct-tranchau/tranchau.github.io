@@ -67,7 +67,7 @@ sections:
           company_url: ''
           company_logo:
           location:
-          date_start: '2021-01-01'
+          date_start: '2022-08-01'
           date_end: ''
           # description: |2-
           #     Responsibilities include:
@@ -80,8 +80,8 @@ sections:
           company_url: ''
           company_logo:
           location:
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2018-08-15'
+          date_end: '2022-05-15'
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
