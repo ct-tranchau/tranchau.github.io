@@ -50,14 +50,14 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: experience
+  - block: education
     content:
-      title: Experience
-      # Date format for experience
+      title: Education
+      # Date format for education
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
+      # Education.
+      #   Add/remove as many `education` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
@@ -75,7 +75,7 @@ sections:
           #     * Analysing
           #     * Modelling
           #     * Deploying
-        - title: BS Student - Statistic
+        - title: B.S. in Statistics, Minor in Mathematics, 
           company: Virgina Tech
           company_url: ''
           company_logo:
